@@ -1,0 +1,54 @@
+CRITICAL - 2022-08-19 07:58:08 --> Invalid file: theme/profile_page.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('theme/profile_page.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('theme/profile_page', [], true)
+ 3 APPPATH/Controllers/Home.php(43): view('theme/profile_page')
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->profile()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-19 07:58:41 --> Invalid file: theme/profile.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('theme/profile.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('theme/profile', [], true)
+ 3 APPPATH/Controllers/Home.php(43): view('theme/profile')
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->profile()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-19 07:58:42 --> Invalid file: theme/profile.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('theme/profile.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('theme/profile', [], true)
+ 3 APPPATH/Controllers/Home.php(43): view('theme/profile')
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->profile()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-19 07:59:54 --> Invalid file: theme/profile_page.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('theme/profile_page.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('theme/profile_page', [], true)
+ 3 APPPATH/Controllers/Home.php(43): view('theme/profile_page')
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->profile()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-19 08:00:13 --> Invalid file: theme/profile_page.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('theme/profile_page.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('theme/profile_page', [], true)
+ 3 APPPATH/Controllers/Home.php(43): view('theme/profile_page')
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->profile()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-19 08:00:24 --> Invalid file: theme/profile_page.php
+in SYSTEMPATH/Exceptions/FrameworkException.php on line 33.
+ 1 SYSTEMPATH/View/View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('theme/profile_page.php')
+ 2 SYSTEMPATH/Common.php(1135): CodeIgniter\View\View->render('theme/profile_page', [], true)
+ 3 APPPATH/Controllers/Home.php(43): view('theme/profile_page')
+ 4 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Home->profile()
+ 5 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
