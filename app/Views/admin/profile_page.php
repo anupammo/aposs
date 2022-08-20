@@ -41,7 +41,7 @@
                             <span class="me-3">GSTIN : </span>
                             <span>74333074333012</span>
                         </p>
-                        <a href="#" class="btn btn-outline-primary shadow-none rounded-0 mt-2 px-4">Edit Profile</a>
+                        <a href="<?= esc(base_url('/profile_edit')); ?>" class="btn btn-outline-primary shadow-none rounded-0 mt-2 px-4">Edit Profile</a>
                         <!-- <div class="d-block mx-auto">
                             <a href="#" class="btn btn-primary shadow-none rounded-0">Update Profile</a>
                         </div> -->

@@ -60,10 +60,24 @@ class Home extends BaseController
             . view('stock/stock_page')
             . view('theme/bottom_block');
     }
+    public function add_stock()
+    {
+        return view('theme/top_block')
+            . view('theme/head_block')
+            . view('stock/add_stock')
+            . view('theme/bottom_block');
+    }
     // Stock section 
 
     // POS section 
     public function pos()
+    {
+        return view('theme/top_block')
+            . view('theme/head_block')
+            . view('pos/pos_page')
+            . view('theme/bottom_block');
+    }
+    public function bill_add()
     {
         return view('theme/top_block')
             . view('theme/head_block')

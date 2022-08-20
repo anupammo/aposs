@@ -45,6 +45,7 @@ $routes->get('/account_page', 'Home::account');
 $routes->get('/pos_page', 'Home::pos');
 // Stock section
 $routes->get('/stock_page', 'Home::stock');
+$routes->get('/add_stock', 'Home::add_stock');
 // Admin section
 $routes->get('/profile_page', 'Home::profile');
 $routes->get('/profile_edit', 'Home::profile_edit');

@@ -9,10 +9,10 @@
                             <strong>APOSS</strong>
                         </h1>
                         <p class="text-center">
-                            Accounting | Point of Sale | Stock
+                            <a class="text-dark" href="<?= esc(base_url('/account_page')) ?>">Accounting</a> | <a class="text-dark" href="<?= esc(base_url('/pos_page')) ?>">Point of Sale</a> | <a class="text-dark" href="<?= esc(base_url('/stock_page')) ?>">Stock</a>
                             <br>
                             <!-- <hr> -->
-                            Management
+                            <a class="text-dark" href="<?= esc(base_url()) ?>">Management</a>
                         </p>
                     </div>
                 </div>
